@@ -1,12 +1,11 @@
 # UI Автотесты на Playwright для SauceDemo
 
-Этот репозиторий содержит набор базовых UI-автотестов для учебного сайта [SauceDemo](https://saucedemo.com). Проект создан для демонстрации навыков работы с Playwright, JavaScript и основами построения тестовых сценариев.
+Этот репозиторий содержит набор базовых UI-автотестов для учебного сайта [SauceDemo](https://saucedemo.com). Проект создан для демонстрации навыков работы с Playwright, JavaScript/TypeScript и основами построения тестовых сценариев.
 
 ## 🚀 Стек технологий
 
 - **Framework:** Playwright
-- **Language:** JavaScript
-- **Runner:** Playwright Test
+- **Language:** JavaScript/TypeScript
 
 ## 📋 Какие проверки реализованы:
 
